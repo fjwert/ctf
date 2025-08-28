@@ -15,3 +15,5 @@ def get_url (applicationURL):
 
 testURL = "https://tns4lpgmziiypnxxzel5ss5nyu0nftol.lambda-url.us-east-1.on.aws/challenge"
 get_url(testURL)
+
+#link result from finalURL: https://wgg522pwivhvi5gqsn675gth3q0otdja.lambda-url.us-east-1.on.aws/636172
